@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for restoring the ancient Merchants Aduenturers to their former trade and priuiledges</title>
+            <title>Proclamations. 1617-08-12</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1617</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22146</idno>
+            <idno type="STC">STC 8555</idno>
+            <idno type="STC">ESTC S100784</idno>
+            <idno type="EEBO-CITATION">99836613</idno>
+            <idno type="PROQUEST">99836613</idno>
+            <idno type="VID">897</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 897)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 1686:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for restoring the ancient Merchants Aduenturers to their former trade and priuiledges</title>
+                  <title>Proclamations. 1617-08-12</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[2] sheets   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno M.DC.XVII. [1617]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Ashton the 12. of August in the fifteenth yeere of our reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of Merchant Adventurers in England --  Law and legislation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:897:1"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of the British royal family encircled by the order of the garter and topped by a rose and a thistle</figDesc>
+                  <head>
+                     <q>HONI SOIT QVI MAY Y PENSE</q>
+                  </head>
+               </figure> 
+               <g ref="char:leaf">❧</g> 
+               <hi>By the King.</hi> 
+               <g ref="char:leaf">❧</g> A Proclamation for restoring the ancient Merchants Aduenturers to their former Trade and Priuiledges.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas heretofore Wee declared Our deſires to haue</hi> brought to paſſe as a principall worke of Our times, the Manu<g ref="char:EOLhyphen"/>factures of Dying and Dreſſing of Broad-cloath within this Realme, and to that end did publiſh Our ſeuerall Proclamations, the one 23. <hi>Iulij Anno</hi> 12. of Our Reigne, the other 2. <hi>Decembr.</hi> fol<g ref="char:EOLhyphen"/>lowing, for the incouragement of ſuch of Our Subiects as then vndertooke to ſet vp and manage the ſaid Trade; But finding that time diſcouereth many inhabilities, which cannot at firſt be ſeene, and being willing to haue it knowne to all Our louing Subiects, that We intend not to inſiſt and ſtay longer vpon ſpecious and faire ſhewes, which produce not the fruit Our acti<g ref="char:EOLhyphen"/>ons doe euer aime at, which is the generall good of this Our State and Kingdome: Where<g ref="char:EOLhyphen"/>fore perceiuing that the former grounds propoſed to Vs, by the Vndertakers of that worke, conſiſted more in hopes then in effects; and finding the worke it ſelfe to bee too great to bee brought to paſſe in any ſhort time, by reaſon of the many difficulties accompanying the ſame, and that as the State of Trade now ſtands, there will be greater loſſe in the Cloth-making of the Kingdome, then gaine in the Dying and Dreſſing thereof, which Wee may not ſuffer, the commoditie of Broad-cloth being one of the principall Dowries of this Our State, and which hath brought great wealth and honour to the ſame; And hauing the experience of many ages to ground Our ſelues vpon, that the ancient Company of the Merchants Ad<g ref="char:EOLhyphen"/>uenturers haue euer managed their Trade, as with profite to the Common wealth, ſo with much praiſe to their Company, in taking off and venting the Cloathes of this Kingdome, whereby they deſerue both grace and encouragement from Vs. Therefore no longer to withdraw Our countenance from them, but to quicken and giue a new life vnto them, Wee doe hereby ſignifie and declare, that We haue already reſtored and giuen backe vnto them, all and euery their Charters, any wiſe touching their Incorporation, forme of gouernment, and Trade, or any Powers, Licences, Authorities, or priuiledges concerning the ſame; And them haue and doe hereby ſettle and redintigrate in their former eſtate and degree to all purpoſes: Willing it to be knowne that none of the Charters of the ſaid Company, were euer by Vs an<g ref="char:EOLhyphen"/>nihilated, or by Law auoyded, but onely ſuſpended and ſequeſtred, till our further pleaſure
+<pb facs="tcp:897:2"/> knowne. And therefore we do by theſe preſents declare, conſtitute, and ordaine, That the ſaid Company of the Merchants Aduenturers ſhall and may from henceforth practize, and put in execution all and euery their Powers, Licences, Authorities, Priuiledges and forme of go<g ref="char:EOLhyphen"/>uernment contained in all or any their Charters; and all vſages, holding of Courts, mee<g ref="char:EOLhyphen"/>tings, aſſemblies, and all other proceedings by vertue of them or any of them, together with all the dependances, either in the parts beyond the Seas, or here within the Kingdome.</p>
+            <p>And further, We doe hereby intimate &amp; declare, letting it to be knowen to all forraine Prin<g ref="char:EOLhyphen"/>ces, and States, in whoſe Dominions, the ſaid Merchants Aduenturers now haue, or here<g ref="char:EOLhyphen"/>after ſhall haue any recourſe in the exerciſe of their Trade: That (notwithſtanding any for<g ref="char:EOLhyphen"/>mer ſignification of Our pleaſure otherwiſe) We haue againe fully, and really enabled them to maintaine, hold, poſſeſſe, and enioy all and euery their former Immunities, Rights, Powers, and Priuiledges in any forraine parts beyond the Seas, with free libertie &amp; power as heretofore, to deale, contract, and agree with any Prince, State, or City in Germany, or the Low-countries, for and touching any further, or other priuiledges to be had and obtained in thoſe parts touching their Trade: Hereby giuing, granting, and allowing, vnto the ſaid Merchants Aduenturers, from time to time, free liberty and choice to make and appoint ſuch and ſo many places of their reſidence in forraine parts, as to them ſhall ſeeme conueni<g ref="char:EOLhyphen"/>ent; And thoſe at their pleaſure to change and remooue, as ſhall and may ſtand beſt with their commoditie and profite. And, that the ſaid Merchants Aduenturers, may henceforth goe on and exerciſe their ſaid Trade, with better confidence and encouragement, which is beſt effected by remouing and diſcharging all impediments: Wee doe by theſe preſents ſtraightly prohibit, forbid, conſtitute, and ordaine, That from henceforth no Interloper, nor other perſon or perſons, not free of the ſaid Company, preſume in any wiſe to meddle, or intromit directly, or indirectly in the Trade, or Priuiledges of the ſaid Company, vpon paine of Our high Indignation, and ſuch other paines, and penalties, as by the Charters of the ſaid Com<g ref="char:EOLhyphen"/>pany, or any of them are or ſhall be prouided for tranſgreſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs in that kind. Which that it may haue the better effect, Wee doe hereby ſtraightly charge and command all Maiors, Shiriffes, Bailiffs, Conſtables; eſpecially all Cuſtomers and Searchers, and other Officers of Our Cuſtomes, aſwell in the Port of London, as in all other Ports of this Kingdome; That they be aiding and aſſiſting to the ſaid Company, and the Officers thereof in the execution of their ſaid Charters, and that they nor any of them in their ſeueral places, paſſe out any goods or Merchandizes into any the parts of Germanie, or the Low-countries, nor into any other parts beyond the Seas, where the ſaid Company now haue, or hereafter ſhall haue any priui<g ref="char:EOLhyphen"/>ledges granted vnto them contrary to the true meaning of their ſaid Charters, vpon paine of Our diſpleaſure, and the loſſe of his or their Offices that ſhall offend therein.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Aſhton</hi> 
+                  <date>
+                     <hi>the</hi> 12. <hi>of Auguſt in the fifteenth yeere of Our Reigne of England, France and Ireland, and of Scotland the one and fiftieth.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie. ANNO M.DC.XVII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
